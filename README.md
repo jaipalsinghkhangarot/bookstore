@@ -1,5 +1,5 @@
-# BOOKSTORE
-API to maintain books.
+# BOOKSTORE - Book Management System
+API to maintain books using Golang With MYSQL.
 ## commands and steps to follow
 ```bash
 go mod init github.com/jaipalsinghkhangarot/bookstore
